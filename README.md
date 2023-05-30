@@ -1,1 +1,1 @@
-# Krinati_intern
+# CompanyProject
